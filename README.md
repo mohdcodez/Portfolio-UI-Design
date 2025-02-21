@@ -11,6 +11,7 @@ This repository contains a **modern and aesthetic portfolio UI design** built to
 
 ### 🏠 Landing Page  
 ![Landing Page](1_LandingPage.png)  
+![Projects](2_Projects.png)
 
 ### 👤 About Me Page  
 ![About Me Page](4_AboutMe.png)  
